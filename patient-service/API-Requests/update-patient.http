@@ -1,9 +1,0 @@
-PUT http://localhost:4000/patients/57330e8f-87c8-48af-abd3-50f06b020ad0
-Content-Type: application/json
-
-{
-  "name": "Jake updated2",
-  "email": "jake26@gmail.com",
-  "dateOfBirth": "1999-09-09",
-  "address": "SEA"
-}
